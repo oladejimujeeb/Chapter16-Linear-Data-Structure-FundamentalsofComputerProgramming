@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter16 Linear Data Structure\bin\Debug\net6.0\Chapter16 Linear Data Structure.exe
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter16 Linear Data Structure\bin\Debug\net6.0\Chapter16 Linear Data Structure.deps.json
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter16 Linear Data Structure\bin\Debug\net6.0\Chapter16 Linear Data Structure.runtimeconfig.json
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter16 Linear Data Structure\bin\Debug\net6.0\Chapter16 Linear Data Structure.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter16 Linear Data Structure\bin\Debug\net6.0\ref\Chapter16 Linear Data Structure.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter16 Linear Data Structure\bin\Debug\net6.0\Chapter16 Linear Data Structure.pdb
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter16 Linear Data Structure\obj\Debug\net6.0\Chapter16 Linear Data Structure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter16 Linear Data Structure\obj\Debug\net6.0\Chapter16 Linear Data Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter16 Linear Data Structure\obj\Debug\net6.0\Chapter16 Linear Data Structure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter16 Linear Data Structure\obj\Debug\net6.0\Chapter16 Linear Data Structure.AssemblyInfo.cs
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter16 Linear Data Structure\obj\Debug\net6.0\Chapter16 Linear Data Structure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter16 Linear Data Structure\obj\Debug\net6.0\Chapter16 Linear Data Structure.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter16 Linear Data Structure\obj\Debug\net6.0\ref\Chapter16 Linear Data Structure.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter16 Linear Data Structure\obj\Debug\net6.0\Chapter16 Linear Data Structure.pdb
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter16 Linear Data Structure\obj\Debug\net6.0\Chapter16 Linear Data Structure.genruntimeconfig.cache

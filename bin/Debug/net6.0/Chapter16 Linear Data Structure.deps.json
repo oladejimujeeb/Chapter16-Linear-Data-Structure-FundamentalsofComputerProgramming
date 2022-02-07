@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Chapter16 Linear Data Structure/1.0.0": {
+        "runtime": {
+          "Chapter16 Linear Data Structure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapter16 Linear Data Structure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
